@@ -1,111 +1,115 @@
-# Awesome-Marketing-Automation-Platform
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Marketing Automation Platform Banner" width="100%">
+</p>
 
-# Awesome-Marketing-Automation-Platform
+# 🚀 Awesome Marketing Automation Platform
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Marketing-Automation-Platform/blob/main/README.md#how-to-contribute"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Marketing-Automation-Platform"><img src="https://img.shields.io/badge/Last%20Updated-October%202026-blue.svg" alt="Last Updated"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+> 🎯 **A curated directory of top SaaS platforms, open-source tools, self-hosted campaign engines, and lead generation frameworks for modern digital marketing teams.**
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+*Focused on Email Marketing Campaigns, Lead Scoring, Multi-Channel Customer Journeys, Automated Drip Sequences, and Behavioral Customer Segmentation.*
 
-*Focused on Email Campaigns, Lead Scoring, Multi-Channel Journeys & Customer Segmentation*
+---
 
-**Last updated: October 2026**
+## 📌 Table of Contents
 
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Marketing Automation**. These tools help marketers automate email campaigns, score leads, nurture prospects, and orchestrate multi-channel customer journeys.
-
-
-
-**Examples** include Microsoft Dynamics 365 Marketing, HubSpot Marketing Hub, Marketo Engage, Salesforce Marketing Cloud, ActiveCampaign, Klaviyo, Mailchimp, Iterable, Customer.io, and Braze (the category leaders).
-
-
-
-**Open-source emphasis**: The open-source marketing automation ecosystem is **mature and production-proven**. **Mautic** is the world's first and most widely adopted open-source marketing automation platform, with **100% community ownership** and **7,280+ GitHub stars** . It provides unlimited self-hosting with no license costs, full data sovereignty, and professional LTS release planning . **Listmonk** offers a high-performance, self-hosted newsletter and mailing list manager with a modern dashboard, ideal for lightweight campaign scheduling and transactional templates . **OpenEMM** provides web-based email automation for newsletters and multi-stage campaigns .
-
-
-
-## 📖 Table of Contents
-
-
-
-- [☁️ SaaS/Hosted Platforms](#-saas-hosted-platforms)
-
+- [☁️ SaaS / Hosted Platforms](#-saas--hosted-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [⚙️ Open-Source Infrastructure & Utilities](#%EF%B8%8F-open-source-infrastructure--utilities)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
-- [🤝 How to Contribute](#how-to-contribute)
+---
 
-- [⚠️ Disclaimer](#-disclaimer)
+## ☁️ SaaS / Hosted Platforms
 
+> 📊 **Market Context**: The global marketing automation software market size is estimated at **~$8 billion in 2026**, growing toward **~$20 billion by 2032**. The sector is **moderately concentrated**, with category leaders serving distinct enterprise, mid-market, SMB, and e-commerce segments rather than a single winner-take-all monopoly.
 
+| 🏢 Platform | 📝 Description & Key Features | 💰 Pricing (Starting Tier) | 🎁 Free Tier / Trial Limits | 📊 Company Size (Revenue / Valuation) |
+|:---|:---|:---|:---|:---|
+| **[Microsoft Dynamics 365 Marketing](https://dynamics.microsoft.com/en-us/marketing/)** | 💼 **Microsoft's enterprise marketing automation suite.** Orchestrate omnichannel customer journeys, email marketing, event management, and lead scoring tightly integrated with Dynamics 365 CRM. | **$1,500/month** (Base tier, includes 10,000 contacts and 100,000 monthly interactions) | ⏱️ **30-day free trial** with full feature access and sample sandbox data | 📈 **~$281B revenue** (Microsoft FY2025) |
+| **[Salesforce Marketing Cloud](https://www.salesforce.com/products/marketing-cloud/)** | ⚡ **Enterprise cross-channel engagement platform.** Complete email, mobile messaging (SMS/Push), social advertising, and real-time customer journey orchestration. | **$1,250/month** (Growth edition, billed annually) | ⏱️ **30-day free trial** for Marketing Cloud Growth edition | 📈 **~$37.9B revenue** (Salesforce FY2025) |
+| **[Marketo Engage](https://www.marketo.com/)** | 🎯 **Adobe's enterprise B2B marketing automation.** Advanced lead nurturing, account-based marketing (ABM), predictive AI lead scoring, and revenue attribution. | **$895/month** (Growth tier starting price for up to 10,000 contacts) | ⏱️ **14-day guided interactive trial** | 📈 **~$21.5B revenue** (Part of Adobe, FY2025) |
+| **[Mailchimp](https://mailchimp.com/)** | 📬 **The pioneer in email marketing & SMB automation.** Intuitive campaign builder, audience tagging, landing pages, and pre-built customer journeys. | **$13/month** (Essentials plan for up to 500 contacts) | 🎁 **Free plan**: Up to 500 contacts and 1,000 email sends/month (1 daily send limit) | 📈 **~$15B revenue** (Part of Intuit) |
+| **[HubSpot Marketing Hub](https://www.hubspot.com/products/marketing)** | 🚀 **The industry standard for inbound marketing.** Integrated CRM, email automation sequences, smart lead scoring, ad tracking, and blog tools. | **$20/month per seat** (Starter plan, includes 1,000 marketing contacts) | 🎁 **Free tools plan**: 2,000 email sends/month with HubSpot branding, forms, and CRM | 📈 **~$2.1B revenue** (HubSpot FY2025) |
+| **[Braze](https://www.braze.com/)** | 📱 **Mobile-first customer engagement engine.** Real-time in-app messaging, mobile push notifications, SMS, and behavioral event-driven email journeys. | **$1,250/month** (Starting tier billed annually for 10,000 workspace MAUs) | ⏱️ **14-day free sandbox trial** upon sales inquiry | 📈 **~$500M+ revenue** (Public: BRZE) |
+| **[ActiveCampaign](https://www.activecampaign.com/)** | 🔄 **SMB customer experience automation.** Combines transactional email, visual drip workflow automation, CRM deal pipelines, and site tracking. | **$15/month** (Starter plan billed annually for 1,000 contacts) | ⏱️ **14-day free trial** with up to 100 contacts and 100 email sends | 📈 **~$3B valuation** (Private) |
+| **[Iterable](https://iterable.com/)** | 🌐 **Enterprise cross-channel customer growth platform.** AI-optimized email campaigns, SMS, push notifications, in-app messaging, and web hooks. | **$500/month** (Base growth contract tier for SMBs) | ⏱️ **14-day sandbox free trial** | 📈 **~$2B valuation** (Private) |
+| **[Klaviyo](https://www.klaviyo.com/)** | 🛍️ **E-commerce automated lifecycle messaging.** Direct integration with Shopify, WooCommerce, and BigCommerce for abandoned cart flows and custom CDP attributes. | **$20/month** (Email plan for 501–1,000 contacts) | 🎁 **Free plan**: Up to 250 contacts, 500 email sends/month, and 150 SMS credits | 📈 **~$1B+ revenue** (Public: KVYO) |
+| **[Customer.io](https://customer.io/)** | ⚙️ **Event-driven behavioral messaging engine.** Trigger complex multi-step automated email, push, and SMS workflows based on custom app events. | **$100/month** (Essentials plan for up to 5,000 profiles and 1 million monthly emails) | 🎁 **Free plan**: Up to 250 contacts and 500 email sends/month | 📈 **~$100M+ raised / valuation** (Private) |
 
-## ☁️ SaaS/Hosted Platforms
-
-
-
-> **📊 Market Context**: The global marketing automation market is estimated at **~$8B in 2026**, growing toward **~$20B by 2032**. The sector is **moderately concentrated** — **HubSpot** and **Marketo** dominate the mid-market and enterprise tiers respectively, while **Klaviyo** leads e-commerce and **ActiveCampaign** serves SMBs. **Pricing varies dramatically**: **HubSpot Marketing Hub Professional** starts at **$890/month** (2,000 contacts), **Enterprise** at **$3,600/month** (10,000 contacts) . **Marketo** does not publish pricing but third-party estimates put tiers at **$895/month to $3,195/month** . **ActiveCampaign** starts at **$15/month** (entry) with median spend around **$79/month** . **Customer.io** has a **free tier** up to 250 contacts, with **Essentials at $100/month** (5,000 profiles) and **Premium at $1,000/month** . **Klaviyo** offers a **free tier** up to 250 contacts and **$45/month median** spend . **Braze** requires **custom quotes** starting from **$1,250/month** with usage-based pricing . No single vendor holds a winner-take-all position.
-
-
-
-| Platform | Description | Pricing (Starting Tier) | Free Tier Limits | Company Size |
-
-|----------|-------------|------------------------|------------------|--------------|
-
-| **[Microsoft Dynamics 365 Marketing](https://dynamics.microsoft.com/en-us/marketing/)** | **Microsoft's enterprise marketing automation.** Customer journeys, email marketing, event management, and lead scoring within Dynamics 365. | **$1,500/month** (10,000 contacts) for Dynamics 365 Marketing . **Customer Insights**: Additional. | **None** — 30-day trial via Dynamics 365 trial. | **~$281B revenue (Microsoft FY2025)** |
-
-| **[HubSpot Marketing Hub](https://www.hubspot.com/products/marketing)** | **The mid-market standard.** Email marketing, automation, lead scoring, and CRM included. | **Professional**: **$890/month** (2,000 contacts, 3 seats) . **Enterprise**: **$3,600/month** (10,000 contacts, 5 seats) . Onboarding: **$3,000–$7,000** . | **Free tier**: Basic email marketing and forms. **Starter**: From **$20/seat/month** . | **~$2B+ revenue (HubSpot FY2025 est.)** |
-
-| **[Marketo Engage](https://www.marketo.com/)** | **Adobe's enterprise marketing automation.** Advanced lead management, account-based marketing, and AI-driven personalization. | **Custom quote only**. Third-party estimates: **$895–$3,195/month** depending on tier and database size . | **Free trial** available. **No perpetual free tier**. | **Part of Adobe (~$21.5B revenue)** |
-
-| **[Salesforce Marketing Cloud](https://www.salesforce.com/products/marketing-cloud/)** | **Enterprise marketing automation within Salesforce.** Email, mobile, social, advertising, and journey orchestration. | **Starter**: **$25/month** (limited features) . **Enterprise**: Custom pricing, typically **$100K+/year**. | **Try for free** available. **No perpetual free tier** for enterprise editions . | **~$37.9B revenue (Salesforce FY2025)** |
-
-| **[ActiveCampaign](https://www.activecampaign.com/)** | **SMB-focused marketing automation.** Email marketing, automation, CRM, and machine learning. | **$15/month** (entry). **Median spend**: **$79/month** . **Top tier**: **$145/month** . | **14-day free trial**. **No perpetual free tier**. | **Private (~$3B valuation est.)** |
-
-| **[Klaviyo](https://www.klaviyo.com/)** | **E-commerce marketing automation.** Email, SMS, and CDP for Shopify, BigCommerce, and custom stores. | **Free** up to **250 contacts** and **500 sends** . **Email plan**: **~$30/month** at 1,000 contacts . **Median spend**: **$45/month** . | **Free tier**: **250 contacts**, **500 sends** . | **Public (KVYO), ~$1B+ revenue est.** |
-
-| **[Customer.io](https://customer.io/)** | **Behavioral messaging platform.** Email, SMS, push, and in-app messaging triggered by customer actions. | **Essentials**: **$100/month** (5,000 profiles, 1M emails) . **Premium**: **$1,000/month** (annual) . | **Free tier**: **250 contacts**, **500 sends** . **Startup program**: Up to **12 months free** for eligible early-stage startups . | **Private (~$100M+ raised)** |
-
-| **[Iterable](https://iterable.com/)** | **Enterprise cross-channel marketing.** Email, SMS, push, in-app, and web messaging with AI optimization. | **Custom quote only**. **Median renewal increase**: **14.8% YoY** . | **No free tier**. **Free trial** available . | **Private (~$2B valuation est.)** |
-
-| **[Braze](https://www.braze.com/)** | **Customer engagement platform.** Cross-channel messaging with real-time behavioral triggers. | **Custom quote**. **From $1,250/month** (billed annually) . **Usage-based** pricing . | **No free tier**. **Free trial** available . | **Public (BRZE), ~$500M+ revenue est.** |
-
-| **[Mailchimp](https://mailchimp.com/)** | **The email marketing pioneer.** Email campaigns, automation, and audience management. | **Free** up to **500 contacts**. **Essentials**: From **$13/month**. **Standard**: From **$20/month**. | **Free tier**: **500 contacts**, **1,000 sends/month**. | **Part of Intuit (~$15B revenue)** |
-
-
+---
 
 ## 🔓 Open-Source GitHub Projects
 
+> 🌟 **Sorted in descending order by GitHub Stars.** Click any star badge to visit the official repository stargazers page.
 
+| 📦 Repository & Stars | 🛠️ Tech Stack | 📋 Description & Capabilities | 📜 License |
+|:---|:---|:---|:---|
+| **[Novu](https://github.com/novuhq/novu)**<br>[![Novu Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers) | 📘 **TypeScript / Node.js** | 🔔 **Open-source notification infrastructure for developers.** Manage transactional and marketing notifications across Email, SMS, Push, and In-App channels from a single API. | `MIT` |
+| **[Listmonk](https://github.com/knadh/listmonk)**<br>[![Listmonk Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers) | 🐹 **Go + PostgreSQL** | 🚀 **High-performance self-hosted newsletter and mailing list manager.** Extremely fast single-binary setup with modern dashboard, webhooks, transaction templates, and high throughput. | `AGPL-3.0` |
+| **[Mautic](https://github.com/mautic/mautic)**<br>[![Mautic Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers) | 🐘 **PHP (Symfony) + MySQL** | 👑 **The world's #1 open-source marketing automation suite.** 100% community-owned with full visual campaign builders, lead scoring, web forms, dynamic content, landing pages, and CRM sync. | `GPL-3.0` |
+| **[Postal](https://github.com/postalserver/postal)**<br>[![Postal Stars](https://img.shields.io/github/stars/postalserver/postal?style=social&color=white)](https://github.com/postalserver/postal/stargazers) | 💎 **Ruby + MySQL** | ✉️ **Full-featured open-source mail delivery platform.** Self-host your own SendGrid / Mailgun alternative infrastructure for inbound and outbound email processing. | `MIT` |
+| **[Inbucket](https://github.com/inbucket/inbucket)**<br>[![Inbucket Stars](https://img.shields.io/github/stars/inbucket/inbucket?style=social&color=white)](https://github.com/inbucket/inbucket/stargazers) | 🐹 **Go** | 📬 **Disposable email testing service.** Catch-all webmail server for developer testing of automated marketing email sequences and drip triggers. | `MIT` |
+| **[Bespoke](https://github.com/bespoke-surf/bespoke)**<br>[![Bespoke Stars](https://img.shields.io/github/stars/bespoke-surf/bespoke?style=social&color=white)](https://github.com/bespoke-surf/bespoke/stargazers) | 📘 **TypeScript** | 🎨 **Modern open-source Mailchimp alternative.** Sleek lightweight campaign engine for creator newsletters, audience segmenting, and custom RSS campaigns. | `MIT` |
+| **[MailifyFlow](https://github.com/199ocero/mailifyflow)**<br>[![MailifyFlow Stars](https://img.shields.io/github/stars/199ocero/mailifyflow?style=social&color=white)](https://github.com/199ocero/mailifyflow/stargazers) | 🔴 **Laravel + Amazon SES** | ⚡ **Self-hosted PHP email marketing platform.** Uses FilamentPHP dashboard, Maizzle email templates, and high-deliverability SES integration. | `MIT` |
+| **[OpenEMM](https://github.com/agnitas-org/openemm)**<br>[![OpenEMM Stars](https://img.shields.io/github/stars/agnitas-org/openemm?style=social&color=white)](https://github.com/agnitas-org/openemm/stargazers) | ☕ **Java + Python** | 🏢 **Enterprise web-based email marketing suite.** Supports multi-stage drip mailings, automated autoresponders, tracking analytics, and lead activity logs. | `AGPL-3.0` |
+| **[Mautic EB](https://github.com/TheDMSGroup/mautic-eb)**<br>[![Mautic EB Stars](https://img.shields.io/github/stars/TheDMSGroup/mautic-eb?style=social&color=white)](https://github.com/TheDMSGroup/mautic-eb/stargazers) | ☁️ **AWS Elastic Beanstalk** | ⚡ **Production-ready Mautic AWS deployment boilerplate.** Auto-scaling Elastic Beanstalk architecture for enterprise self-hosted email sending. | `MIT` |
+| **[Mautic Contact Client](https://github.com/TheDMSGroup/mautic-contact-client)**<br>[![Mautic Contact Client Stars](https://img.shields.io/github/stars/TheDMSGroup/mautic-contact-client?style=social&color=white)](https://github.com/TheDMSGroup/mautic-contact-client/stargazers) | 🔌 **PHP API Bridge** | 🔗 **No-code integration bridge for Mautic.** Connect external webhooks, lead forms, and incoming lead payloads directly into Mautic contact segments. | `MIT` |
+| **[Vtiger CRM](https://github.com/javanile/vtiger)**<br>[![Vtiger Stars](https://img.shields.io/github/stars/javanile/vtiger?style=social&color=white)](https://github.com/javanile/vtiger/stargazers) | 🐳 **PHP + Docker** | 💼 **Open-source business automation & CRM platform.** Features built-in email marketing, webforms, campaign tracking, and customer history logs. | `IPL-1.0` |
 
-| Repo | Description | Stars |
+---
 
-|------|-------------|-------|
+## ⚙️ Open-Source Infrastructure & Utilities
 
-| **[Mautic](https://github.com/mautic/mautic)** — **The world's first and most widely adopted open-source marketing automation platform.** **7,280 stars, 2,608 forks** . **100% community-owned** — no commercial entity, no investors, designed to stay that way . **True data sovereignty** — you decide where it runs and which jurisdiction your data lives in . **Full automation suite**: email campaigns, multi-stage journeys, lead scoring, landing pages, forms, and CRM integrations. **Unlimited self-hosting** with no license costs and no lock-in . **LTS and Extended LTS** available for years of stable production use . **GPL-3.0**. | [![Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers) | ~7,280 |
+| 🛠️ Tool | 📝 Description | 📜 License |
+|:---|:---|:---|
+| **[Mautic Advanced Templates Bundle](https://github.com/Logicify/mautic-advanced-templates-bundle)** | 🧩 **Extends Mautic email templates with TWIG scripting.** Write dynamic conditional logic, loops, and custom personalized blocks inside Mautic emails. | `MIT` |
 
-| **[Listmonk](https://github.com/knadh/listmonk)** — **High-performance, self-hosted newsletter and mailing list manager with a modern dashboard.** **AGPL-3.0** licensed, **Go-based** . **Lightweight and straightforward** for newsletter sending and scheduling . **Supports transactional templates** and a **transactional send API** — handy for OTP/verification emails . **Fast to run** and easy to integrate into applications . **Single binary** with PostgreSQL backend. | [![Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers) | ~18,000 |
+---
 
-| **[OpenEMM](https://github.com/agnitas-org/openemm)** — **Web-based software for email automation and marketing.** **103 stars, 34 forks** . Supports **newsletters, multi-stage mail campaigns, transaction mails, and autoresponders** . **Java-based** enterprise-grade email marketing platform with a long history. **AGPL-3.0**. | [![Stars](https://img.shields.io/github/stars/agnitas-org/openemm?style=social&color=white)](https://github.com/agnitas-org/openemm/stargazers) | ~103 |
+## 🤝 How to Contribute
 
-| **[Bespoke](https://github.com/bespoke-surf/bespoke)** — **The open-source Mailchimp alternative.** **275 stars** . **TypeScript-based** modern email marketing platform. **MIT License**. | [![Stars](https://img.shields.io/github/stars/bespoke-surf/bespoke?style=social&color=white)](https://github.com/bespoke-surf/bespoke/stargazers) | ~275 |
+Contributions are welcome! Please follow these guidelines:
 
-| **[MailifyFlow](https://github.com/199ocero/mailifyflow)** — **Open-source, self-hosted email marketing platform.** Built with **Laravel, FilamentPHP, Maizzle, and Amazon SES** . **1.4 MB repository size**, actively maintained . | [![Stars](https://img.shields.io/github/stars/199ocero/mailifyflow?style=social&color=white)](https://github.com/199ocero/mailifyflow/stargazers) | ~200 |
+1. 🍴 Fork this repository.
+2. ➕ Add your suggested SaaS product or Open-Source project in the appropriate section.
+3. 📊 Ensure SaaS entries include verified starting prices, exact free tier limits, and company revenue/valuation data.
+4. ⭐ Ensure Open-Source entries include tech stack, license, description, and star badge linking to the stargazers page.
+5. 🔀 Submit a clear Pull Request (PR).
 
+---
 
+## 💖 Support & Sponsorship
 
-**Additional open-source options worth exploring:**
+Thank you for exploring and using this repository! If you find this curated collection helpful for your marketing tech stack, please consider supporting the project:
 
+- ⭐ **Star this repository** to help others discover it!
+- 🔀 **Fork & Share** it with your fellow marketers, developers, and growth engineers.
+- ☕ **Buy Me a Coffee**: If you'd like to support ongoing maintenance and additions, visit the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
+Your support is greatly appreciated! 🙌
 
-| Repo | Description |
+---
 
-|------|-------------|
+## 🌟 Star History
 
-| **[Mautic EB](https://github.com/TheDMSGroup/mautic-eb)** — **Mautic + Elastic Beanstalk = scalable marketing automation.** **102 stars, 26 forks** . Deploy Mautic on AWS Elastic Beanstalk for scalable email marketing. |
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Marketing-Automation-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Marketing-Automation-Platform&type=date&legend=top-left)
 
-| **[Mautic Contact Client](https://github.com/TheDMSGroup/mautic-contact-client)** — **Create custom integrations without writing code, like having your own Zapier.** **95 stars, 33 forks** . Bridges Mautic with external APIs and services. |
+---
 
-| **[Vtiger](https://github.com/javanile/vtiger)** — **#1 business automation software.** **94 stars, 62 forks** . Full CRM with marketing automation capabilities. **Docker-ready**. |
+## ⚠️ Disclaimer
 
-| **[Mautic Advanced Templates Bundle](https://github.com/Logicify/mautic-advanced-templates-bundle)** — **Extends Mautic email templates with TWIG block scripting.** Use conditions, loops, and advanced logic in email templates . |
+*This list is curated for educational and informational purposes. Product logos, trademarks, and brand names belong to their respective owners. Pricing, free tier limits, and revenue estimates are accurate as of October 2026.*
 
-| **[Postal](https://github.com/postalserver/postal)** — **Open-source mail delivery platform.** Self-host your own SendGrid/Mailgun-like infrastructure for transactional and marketing emails . |
