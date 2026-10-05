@@ -53,7 +53,7 @@
 
 ## 🔓 Open-Source GitHub Projects
 
-> 🌟 **Sorted in descending order by GitHub Stars.** Click any star badge to visit the official repository stargazers page.
+> 🌟 **Sorted in descending order by GitHub_Stars.** Click any Stars_Badge to visit the official repository stargazers page.
 
 | 📦 Repository & Stars | 🛠️ Tech Stack | 📋 Description & Capabilities | 📜 License |
 |:---|:---|:---|:---|
@@ -86,7 +86,7 @@ Contributions are welcome! Please follow these guidelines:
 1. 🍴 Fork this repository.
 2. ➕ Add your suggested SaaS product or Open-Source project in the appropriate section.
 3. 📊 Ensure SaaS entries include verified starting prices, exact free tier limits, and company revenue/valuation data.
-4. ⭐ Ensure Open-Source entries include tech stack, license, description, and star badge linking to the stargazers page.
+4. ⭐ Ensure Open-Source entries include tech stack, license, description, and Stars_Badge linking to the stargazers page.
 5. 🔀 Submit a clear Pull Request (PR).
 
 ---
